@@ -1,6 +1,6 @@
-Hey there, I'm Kevin 👋
+Hey there, I'm Kevin.
 
-I'm a software engineer based in Los Angeles, California. You can find me:
+I'm a software engineer based in Los Angeles, California. You can find me 👇
 
 Prototyping React applications at [Reactrix &rarr;](https://www.reactrix.app/)<br/>
 Saving thoughts & ideas at [Clementine &rarr;](https://www.clementine.today/)<br/>
